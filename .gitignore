@@ -60,3 +60,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/StarterContent/*
+
+*.VC.db
+
+Content/Map/MapBattleGround/*
